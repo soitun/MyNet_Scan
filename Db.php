@@ -10,8 +10,8 @@
       'db_user' => 'root', // 数据库账号
       'db_prefix' => '', // 表前缀，表名被我写死了所以这个用不上但是必须留空不然报错
       'db_pass' => 'QAZwsx!@#456', // 数据库密码
-      'appid' => 'wxb51e27e14d8e89bc', // 小程序appid
-      'appsecret' => '700490d041bb25c65d4607ad9f64ee67', // 小程序appsecret
+      'appid' => '', // 小程序appid
+      'appsecret' => '', // 小程序appsecret
     );
     
     // 除了配置这个文件的这些参数之外
