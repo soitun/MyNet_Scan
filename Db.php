@@ -9,7 +9,7 @@
       'db_name' => 'mydesk_api', // 数据库名称
       'db_user' => 'root', // 数据库账号
       'db_prefix' => '', // 表前缀，表名被我写死了所以这个用不上但是必须留空不然报错
-      'db_pass' => 'QAZwsx!@#456', // 数据库密码
+      'db_pass' => '', // 数据库密码
       'appid' => '', // 小程序appid
       'appsecret' => '', // 小程序appsecret
     );
